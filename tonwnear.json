@@ -1,0 +1,9 @@
+{
+	"uri": "https://raw.githubusercontent.com/tonanadao/settings/main/tonwnear.json",
+	"name": "Wrapped NEAR",
+	"description": "NEAR that was wrapped on TON blockchain by TONANA bridge",
+	"image": "https://gateway.pinata.cloud/ipfs/QmTNk2NcBr4tMjf8Whv5wtupE981HbuBFaV2ygzMGSzgbx",
+	"symbol": "wNEAR",
+	"decimals": "9"
+}
+
