@@ -1,0 +1,9 @@
+{
+	"uri": "https://raw.githubusercontent.com/tonanadao/settings/main/tonwsol.json",
+	"name": "Wrapped SOL",
+	"description": "SOL that was wrapped on TON blockchain by TONANA bridge",
+	"image": "https://gateway.pinata.cloud/ipfs/QmS1gic4srChLizqL1aofnz8uyZDYbhwtFgHcV8vqwdEEZ",
+	"symbol": "wSOL",
+	"decimals": "9"
+}
+

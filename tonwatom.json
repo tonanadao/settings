@@ -1,0 +1,9 @@
+{
+	"uri": "https://raw.githubusercontent.com/tonanadao/settings/main/tonwatom.json",
+	"name": "Wrapped ATOM",
+	"description": "ATOM that was wrapped on TON blockchain by TONANA bridge",
+	"image": "https://gateway.pinata.cloud/ipfs/QmbH1GYumdx3eCJ1HzEBgZWcbQnouVxW2JEKDcdu6Au6CC",
+	"symbol": "wATOM",
+	"decimals": "9"
+}
+
