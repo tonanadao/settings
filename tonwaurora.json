@@ -1,0 +1,9 @@
+{
+	"uri": "https://raw.githubusercontent.com/tonanadao/settings/main/tonwaurora.json",
+	"name": "Wrapped AURORA",
+	"description": "AURORA that was wrapped on TON blockchain by TONANA bridge",
+	"image": "https://gateway.pinata.cloud/ipfs/QmbH1GYumdx3eCJ1HzEBgZWcbQnouVxW2JEKDcdu6Au6CC",
+	"symbol": "wAURORA",
+	"decimals": "9"
+}
+
