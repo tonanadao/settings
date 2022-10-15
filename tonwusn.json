@@ -1,0 +1,9 @@
+{
+	"uri": "https://raw.githubusercontent.com/tonanadao/settings/main/tonwusn.json",
+	"name": "Wrapped USN",
+	"description": "USN that was wrapped on TON blockchain by TONANA bridge",
+	"image": "https://gateway.pinata.cloud/ipfs/QmbtuHChPX9mvzrk8kb5e5hLg6aTujHS6u7iWDwyCan942",
+	"symbol": "wUSN",
+	"decimals": "9"
+}
+
