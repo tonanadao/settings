@@ -1,0 +1,9 @@
+{
+	"uri": "https://raw.githubusercontent.com/tonanadao/settings/main/tonweth.json",
+	"name": "Wrapped ETH",
+	"description": "ETH that was wrapped on TON blockchain by TONANA bridge",
+	"image": "https://gateway.pinata.cloud/ipfs/QmP3U93WZ8E19UCd4qgqPjLKFaB2H1ihyWkAFMhiM23e4a",
+	"symbol": "wETH",
+	"decimals": "9"
+}
+
